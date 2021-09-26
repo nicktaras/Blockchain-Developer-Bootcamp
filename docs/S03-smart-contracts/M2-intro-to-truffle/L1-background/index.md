@@ -138,9 +138,7 @@ Installing a box is simply a case of using the unbox command, for example:
 
     $ truffle unbox optimism
 
-
-Beyond this, simply follow along with the [readme](https://github.com/truffle-box/optimism-box){target=_blank}
-
+Beyond this, simply follow along with the <a href="https://github.com/truffle-box/optimism-box" target="_blank" rel="noopener noreferrer">readme</a>
 
 We'll discuss boxes more when we dive deeper into developer tooling and more advanced Truffle, but feel free to explore available boxes. Two popular boxes for folks new to Truffle are <a href="https://www.trufflesuite.com/tutorial" target="_blank" rel="noopener noreferrer">Petshop</a> and <a href="https://www.trufflesuite.com/docs/truffle/quickstart" target="_blank" rel="noopener noreferrer">Metacoin.</a>
 
